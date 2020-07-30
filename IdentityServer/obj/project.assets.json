@@ -3487,26 +3487,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\spohl\\.nuget\\packages\\": {}
+    "/home/spohl/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\playground\\identityservice\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "/mnt/c/Dev/playground/identityservice/IdentityServer/IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "C:\\Dev\\playground\\identityservice\\IdentityServer\\IdentityServer.csproj",
-      "packagesPath": "C:\\Users\\spohl\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\playground\\identityservice\\IdentityServer\\obj\\",
+      "projectPath": "/mnt/c/Dev/playground/identityservice/IdentityServer/IdentityServer.csproj",
+      "packagesPath": "/home/spohl/.nuget/packages/",
+      "outputPath": "/mnt/c/Dev/playground/identityservice/IdentityServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\spohl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/spohl/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3550,7 +3548,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
       }
     }
   }

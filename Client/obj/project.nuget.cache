@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "j2Dw8gOE0Yten/EIHvd8CNqv/XXmhD78wq7+SvMka5Lo9nRUJwBlEbKj8AzYp/5FPKiOa1RO1x4F1W8r9/78Pg==",
+  "dgSpecHash": "ICXqAckL49auG81/1/l/XnQ2qVAZgOMSYceXCIlMns2gV3k2rYPvC234Q/vpf512U1BKif779Ta3Cdr/Q1oyug==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\playground\\identityservice\\Client\\Client.csproj",
+  "projectFilePath": "/mnt/c/Dev/playground/identityservice/Client/Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\spohl\\.nuget\\packages\\identitymodel\\4.3.1\\identitymodel.4.3.1.nupkg.sha512",
-    "C:\\Users\\spohl\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
-    "C:\\Users\\spohl\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+    "/home/spohl/.nuget/packages/identitymodel/4.3.1/identitymodel.4.3.1.nupkg.sha512",
+    "/home/spohl/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/home/spohl/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
