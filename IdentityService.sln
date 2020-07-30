@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{07AE7F75-ABA9-43E7-80F7-610A223CB389}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCClient", "MVCClient\MVCClient.csproj", "{EEC54E86-3A40-437D-B392-C31AB803AC6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{07AE7F75-ABA9-43E7-80F7-610A223CB389}.Release|x64.Build.0 = Release|Any CPU
 		{07AE7F75-ABA9-43E7-80F7-610A223CB389}.Release|x86.ActiveCfg = Release|Any CPU
 		{07AE7F75-ABA9-43E7-80F7-610A223CB389}.Release|x86.Build.0 = Release|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Debug|x64.Build.0 = Debug|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Release|x64.ActiveCfg = Release|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Release|x64.Build.0 = Release|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{EEC54E86-3A40-437D-B392-C31AB803AC6F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
