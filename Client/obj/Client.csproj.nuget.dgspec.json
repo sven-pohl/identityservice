@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/c/Dev/playground/identityservice/Client/Client.csproj": {}
+  },
+  "projects": {
+    "/mnt/c/Dev/playground/identityservice/Client/Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/Dev/playground/identityservice/Client/Client.csproj",
+        "projectName": "Client",
+        "projectPath": "/mnt/c/Dev/playground/identityservice/Client/Client.csproj",
+        "packagesPath": "/home/spohl/.nuget/packages/",
+        "outputPath": "/mnt/c/Dev/playground/identityservice/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/spohl/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
