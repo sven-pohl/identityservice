@@ -28,6 +28,14 @@ namespace Api
         {
             services.AddControllers();
 
+            services.AddCors(options => {
+                options.AddPolicy("default", policy => {
+                    policy.WithOrigins("https://localhost:5003")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+                });
+            });
+
              services.AddAuthentication("Bearer")
             .AddJwtBearer("Bearer", options =>
             {
@@ -61,6 +69,8 @@ namespace Api
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors("default");
 
             app.UseAuthentication();
             app.UseAuthorization();
