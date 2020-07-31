@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCClient", "MVCClient\MVCC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSClient", "JSClient\JSClient.csproj", "{EF2DCA35-6522-43B8-8AFA-16EEEC8B861F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerAspNetIdentity", "IdentityServerAspNetIdentity\IdentityServerAspNetIdentity.csproj", "{3B2497F2-1448-46EB-8216-997F5FA07E30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{EF2DCA35-6522-43B8-8AFA-16EEEC8B861F}.Release|x64.Build.0 = Release|Any CPU
 		{EF2DCA35-6522-43B8-8AFA-16EEEC8B861F}.Release|x86.ActiveCfg = Release|Any CPU
 		{EF2DCA35-6522-43B8-8AFA-16EEEC8B861F}.Release|x86.Build.0 = Release|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Debug|x64.Build.0 = Debug|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Debug|x86.Build.0 = Debug|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|x64.Build.0 = Release|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
