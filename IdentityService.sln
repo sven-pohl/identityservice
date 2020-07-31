@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSClient", "JSClient\JSClie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerAspNetIdentity", "IdentityServerAspNetIdentity\IdentityServerAspNetIdentity.csproj", "{3B2497F2-1448-46EB-8216-997F5FA07E30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerCore", "IdentityServerCore\IdentityServerCore.csproj", "{F3527AE3-55B7-4A59-AB85-46040F389B56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|x64.Build.0 = Release|Any CPU
 		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|x86.ActiveCfg = Release|Any CPU
 		{3B2497F2-1448-46EB-8216-997F5FA07E30}.Release|x86.Build.0 = Release|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Debug|x64.Build.0 = Debug|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Debug|x86.Build.0 = Debug|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Release|x64.ActiveCfg = Release|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Release|x64.Build.0 = Release|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3527AE3-55B7-4A59-AB85-46040F389B56}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
