@@ -381,3 +381,6 @@ MigrationBackup/
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudiocode,visualstudio
 .vs/IdentityService/DesignTimeBuild/.dtbcache.v2
 .vs/IdentityService/v16/.suo
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/settings.json
